@@ -9,4 +9,4 @@ def fun_distance(x1, y1, x2, y2):
 	# your code goes here
 	d = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 	return int(d)
-print(fun_distance(0,0,0,-2))
+# print(fun_distance(0,0,0,-2))
