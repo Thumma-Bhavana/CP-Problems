@@ -34,5 +34,5 @@
 # Hint: Also, remember to use % to get the one's digit, and use //= to get rid of the one's digit.
 
 def playstep2(hand, dice):
-	# your code goes here
+	# your code goes herez
 	pass
