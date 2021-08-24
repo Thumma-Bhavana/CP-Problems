@@ -12,4 +12,3 @@ import pytest
 ])
 def test_fun_isfactor(f,n, result):
     assert fun_isfactor(f, n) == result
-
