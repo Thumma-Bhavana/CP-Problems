@@ -6,4 +6,4 @@
 
 def isevenpositiveint(x):
 	# your code goes here
-	pass
+	return type(x)==int and x>0 and x%2==0
